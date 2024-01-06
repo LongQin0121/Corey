@@ -1,0 +1,31 @@
+{
+    "states": [
+      {
+        "name": "Alabama",
+        "abbreviation": "AL",
+        "area_codes": ["205", "251", "256", "334"]
+      },
+      {
+        "name": "Alaska",
+        "abbreviation": "AK",
+        "area_codes": ["907"]
+      },
+      {
+        "name": "Arizona",
+        "abbreviation": "AZ",
+        "area_codes": ["602", "480", "520"]
+      },
+      {
+        "name": "Arkansas",
+        "abbreviation": "AR",
+        "area_codes": ["501", "870"]
+      },
+      {
+        "name": "California",
+        "abbreviation": "CA",
+        "area_codes": ["213", "310", "415", "510", "650"]
+      }
+     
+    ]
+  }
+  
