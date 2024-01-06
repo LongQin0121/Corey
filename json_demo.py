@@ -12,8 +12,8 @@ people_string = '''
             "has_license": true
         },
         {
-            "name": "",
-            "phone": "",
+            "name": "Jade,Li",
+            "phone": "223-777-778",
             "emails": [],
             "has_license": null
         }
