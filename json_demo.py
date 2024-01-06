@@ -14,7 +14,7 @@ people_string = '''
         {
             "name": "",
             "phone": "",
-            "emails": [],
+            "emails": [uyy],
             "has_license": null
         }
     ]
